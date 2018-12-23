@@ -1,14 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Yi-Te (Eeder) Hsu on Yi-Te (Eeder) Hsu</title>
-    <link>https://eederhsu.github.io/</link>
-    <description>Recent content in Yi-Te (Eeder) Hsu on Yi-Te (Eeder) Hsu</description>
+    <title>0 on Yi-Te (Eeder) Hsu</title>
+    <link>https://eederhsu.github.io/publication_types/0/</link>
+    <description>Recent content in 0 on Yi-Te (Eeder) Hsu</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Sun, 15 Oct 2017 00:00:00 +0300</lastBuildDate>
-    <atom:link href="/" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 23 Dec 2018 00:22:51 +0200</lastBuildDate>
+    
+	<atom:link href="https://eederhsu.github.io/publication_types/0/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>Robustness against the channel effect in pathological voice detection</title>
@@ -20,29 +22,11 @@
     </item>
     
     <item>
-      <title>A study on speech enhancement using exponent-only floating point quantized neural network (EOFP-QNN)</title>
-      <link>https://eederhsu.github.io/publication/eofp-qnn/</link>
-      <pubDate>Tue, 18 Dec 2018 23:28:38 +0200</pubDate>
-      
-      <guid>https://eederhsu.github.io/publication/eofp-qnn/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Detecting dementia in Mandarin Chinese using transfer learning from a parallel corpus</title>
       <link>https://eederhsu.github.io/publication/naacl2019/</link>
       <pubDate>Tue, 18 Dec 2018 00:40:27 +0200</pubDate>
       
       <guid>https://eederhsu.github.io/publication/naacl2019/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Acceleration and compression of speech enhancement using integer-adder deep neural network (IA-Net)</title>
-      <link>https://eederhsu.github.io/publication/icassp2019/</link>
-      <pubDate>Thu, 13 Dec 2018 00:40:13 +0200</pubDate>
-      
-      <guid>https://eederhsu.github.io/publication/icassp2019/</guid>
       <description></description>
     </item>
     
