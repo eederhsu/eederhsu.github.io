@@ -55,5 +55,31 @@
       <description></description>
     </item>
     
+    <item>
+      <title>MovieWatson</title>
+      <link>https://eederhsu.github.io/project/moviewatson/</link>
+      <pubDate>Wed, 30 Nov 2016 00:00:00 +0200</pubDate>
+      
+      <guid>https://eederhsu.github.io/project/moviewatson/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;Built a movie recommendation system that instantaneously captured user preference without needing user data history.&lt;/li&gt;
+&lt;li&gt;Utilized collaborative filtering system as well as database retrieval method to provide recommended 10 movies.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>how social media influence human emotion</title>
+      <link>https://eederhsu.github.io/project/social-media-emotion/</link>
+      <pubDate>Wed, 30 Nov 2016 00:00:00 +0200</pubDate>
+      
+      <guid>https://eederhsu.github.io/project/social-media-emotion/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;Designed an android App to collect real-time data that tracked user happiness.&lt;/li&gt;
+&lt;li&gt;Used statistics to reveal the relationship between users happiness and the time spent on social media.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
   </channel>
 </rss>
