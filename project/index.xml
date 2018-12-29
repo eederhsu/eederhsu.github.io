@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Wed, 30 Nov 2016 00:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 30 Nov 2016 00:00:00 +0800</lastBuildDate>
     
 	<atom:link href="https://eederhsu.github.io/project/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,7 +15,7 @@
     <item>
       <title>MovieWatson</title>
       <link>https://eederhsu.github.io/project/moviewatson/</link>
-      <pubDate>Wed, 30 Nov 2016 00:00:00 +0200</pubDate>
+      <pubDate>Wed, 30 Nov 2016 00:00:00 +0800</pubDate>
       
       <guid>https://eederhsu.github.io/project/moviewatson/</guid>
       <description> Built a movie recommendation system that instantaneously captured user preference without needing user data history. Utilized collaborative filtering system as well as database retrieval method to provide recommended 10 movies.  </description>
@@ -24,7 +24,7 @@
     <item>
       <title>how social media influence human emotion</title>
       <link>https://eederhsu.github.io/project/social-media-emotion/</link>
-      <pubDate>Wed, 30 Nov 2016 00:00:00 +0200</pubDate>
+      <pubDate>Wed, 30 Nov 2016 00:00:00 +0800</pubDate>
       
       <guid>https://eederhsu.github.io/project/social-media-emotion/</guid>
       <description> Designed an android App to collect real-time data that tracked user happiness. Used statistics to reveal the relationship between users happiness and the time spent on social media.  </description>
