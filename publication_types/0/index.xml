@@ -7,33 +7,33 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Sun, 23 Dec 2018 00:22:51 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 10 Dec 2018 00:40:27 +0200</lastBuildDate>
     
 	<atom:link href="https://eederhsu.github.io/publication_types/0/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Robustness against the channel effect in pathological voice detection</title>
-      <link>https://eederhsu.github.io/publication/ml4h2018/</link>
-      <pubDate>Sun, 23 Dec 2018 00:22:51 +0200</pubDate>
-      
-      <guid>https://eederhsu.github.io/publication/ml4h2018/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Detecting dementia in Mandarin Chinese using transfer learning from a parallel corpus</title>
       <link>https://eederhsu.github.io/publication/naacl2019/</link>
-      <pubDate>Tue, 18 Dec 2018 00:40:27 +0200</pubDate>
+      <pubDate>Mon, 10 Dec 2018 00:40:27 +0200</pubDate>
       
       <guid>https://eederhsu.github.io/publication/naacl2019/</guid>
       <description></description>
     </item>
     
     <item>
+      <title>Robustness against the channel effect in pathological voice detection</title>
+      <link>https://eederhsu.github.io/publication/ml4h2018/</link>
+      <pubDate>Sat, 01 Dec 2018 00:22:51 +0200</pubDate>
+      
+      <guid>https://eederhsu.github.io/publication/ml4h2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>DNN-based Approach to Detect and Classify Pathological Voice</title>
       <link>https://eederhsu.github.io/publication/bigdata2018/</link>
-      <pubDate>Mon, 10 Dec 2018 00:40:03 +0200</pubDate>
+      <pubDate>Sat, 10 Nov 2018 00:40:03 +0200</pubDate>
       
       <guid>https://eederhsu.github.io/publication/bigdata2018/</guid>
       <description></description>

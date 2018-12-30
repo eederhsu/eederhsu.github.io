@@ -4,24 +4,8 @@
     
     <url>
     
-      <loc>https://eederhsu.github.io/publication/ml4h2018/</loc>
-      <lastmod>2018-12-23T00:22:51+02:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://eederhsu.github.io/publication/eofp-qnn/</loc>
-      <lastmod>2018-12-18T23:28:38+02:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
       <loc>https://eederhsu.github.io/publication/naacl2019/</loc>
-      <lastmod>2018-12-18T00:40:27+02:00</lastmod>
+      <lastmod>2018-12-10T00:40:27+02:00</lastmod>
     </url>
     
   
@@ -29,7 +13,23 @@
     <url>
     
       <loc>https://eederhsu.github.io/publication/icassp2019/</loc>
-      <lastmod>2018-12-13T00:40:13+02:00</lastmod>
+      <lastmod>2018-12-08T00:40:13+02:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://eederhsu.github.io/publication/ml4h2018/</loc>
+      <lastmod>2018-12-01T00:22:51+02:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://eederhsu.github.io/publication/eofp-qnn/</loc>
+      <lastmod>2018-11-18T23:28:38+02:00</lastmod>
     </url>
     
   
@@ -37,7 +37,7 @@
     <url>
     
       <loc>https://eederhsu.github.io/publication/bigdata2018/</loc>
-      <lastmod>2018-12-10T00:40:03+02:00</lastmod>
+      <lastmod>2018-11-10T00:40:03+02:00</lastmod>
     </url>
     
   
@@ -68,6 +68,14 @@
     
     <url>
     
+      <loc>https://eederhsu.github.io/project/facebook-likes-estimator-for-major-news-publishers-pages-/</loc>
+      <lastmod>2016-11-30T00:00:00+08:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>https://eederhsu.github.io/project/moviewatson/</loc>
       <lastmod>2016-11-30T00:00:00+08:00</lastmod>
     </url>
@@ -84,8 +92,16 @@
     
     <url>
     
+      <loc>https://eederhsu.github.io/project/speaker-recognition/</loc>
+      <lastmod>2015-11-30T00:00:00+08:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>https://eederhsu.github.io/publication_types/0/</loc>
-      <lastmod>2018-12-23T00:22:51+02:00</lastmod>
+      <lastmod>2018-12-10T00:40:27+02:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -94,7 +110,7 @@
     <url>
     
       <loc>https://eederhsu.github.io/publication_types/1/</loc>
-      <lastmod>2018-12-18T23:28:38+02:00</lastmod>
+      <lastmod>2018-12-08T00:40:13+02:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -129,7 +145,7 @@
     <url>
     
       <loc>https://eederhsu.github.io/publication_types/</loc>
-      <lastmod>2018-12-23T00:22:51+02:00</lastmod>
+      <lastmod>2018-12-10T00:40:27+02:00</lastmod>
       <priority>0</priority>
     </url>
     
