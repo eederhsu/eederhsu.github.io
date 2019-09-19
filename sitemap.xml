@@ -1,11 +1,42 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+    
+    <url>
+    
+      <loc>https://eederhsu.github.io/</loc>
+      <lastmod>2018-12-22T23:00:00-05:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://eederhsu.github.io/publication_types/0/</loc>
+      <lastmod>2018-12-10T00:40:27+02:00</lastmod>
+    </url>
+    
   
     
     <url>
     
       <loc>https://eederhsu.github.io/publication/naacl2019/</loc>
       <lastmod>2018-12-10T00:40:27+02:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://eederhsu.github.io/publication_types/</loc>
+      <lastmod>2018-12-10T00:40:27+02:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://eederhsu.github.io/publication_types/1/</loc>
+      <lastmod>2018-12-08T00:40:13+02:00</lastmod>
     </url>
     
   
@@ -45,7 +76,7 @@
     <url>
     
       <loc>https://eederhsu.github.io/post/</loc>
-      <lastmod>2017-01-01T00:00:00+08:00</lastmod>
+      <lastmod>2017-01-01T00:00:00-05:00</lastmod>
     </url>
     
   
@@ -53,7 +84,7 @@
     <url>
     
       <loc>https://eederhsu.github.io/publication/</loc>
-      <lastmod>2017-01-01T00:00:00+08:00</lastmod>
+      <lastmod>2017-01-01T00:00:00-05:00</lastmod>
     </url>
     
   
@@ -61,7 +92,7 @@
     <url>
     
       <loc>https://eederhsu.github.io/talk/</loc>
-      <lastmod>2017-01-01T00:00:00+08:00</lastmod>
+      <lastmod>2017-01-01T00:00:00-05:00</lastmod>
     </url>
     
   
@@ -69,15 +100,7 @@
     <url>
     
       <loc>https://eederhsu.github.io/project/facebook-likes-estimator-for-major-news-publishers-pages-/</loc>
-      <lastmod>2016-11-30T00:00:00+08:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://eederhsu.github.io/project/moviewatson/</loc>
-      <lastmod>2016-11-30T00:00:00+08:00</lastmod>
+      <lastmod>2016-11-30T00:00:00-05:00</lastmod>
     </url>
     
   
@@ -85,41 +108,7 @@
     <url>
     
       <loc>https://eederhsu.github.io/project/social-media-emotion/</loc>
-      <lastmod>2016-11-30T00:00:00+08:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://eederhsu.github.io/project/speaker-recognition/</loc>
-      <lastmod>2015-11-30T00:00:00+08:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://eederhsu.github.io/publication_types/0/</loc>
-      <lastmod>2018-12-10T00:40:27+02:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://eederhsu.github.io/publication_types/1/</loc>
-      <lastmod>2018-12-08T00:40:13+02:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://eederhsu.github.io/categories/</loc>
-      <priority>0</priority>
+      <lastmod>2016-11-30T00:00:00-05:00</lastmod>
     </url>
     
   
@@ -127,8 +116,15 @@
     <url>
     
       <loc>https://eederhsu.github.io/tags/machine-learning/</loc>
-      <lastmod>2016-11-30T00:00:00+08:00</lastmod>
-      <priority>0</priority>
+      <lastmod>2016-11-30T00:00:00-05:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://eederhsu.github.io/project/moviewatson/</loc>
+      <lastmod>2016-11-30T00:00:00-05:00</lastmod>
     </url>
     
   
@@ -136,17 +132,7 @@
     <url>
     
       <loc>https://eederhsu.github.io/project/</loc>
-      <lastmod>2016-11-30T00:00:00+08:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://eederhsu.github.io/publication_types/</loc>
-      <lastmod>2018-12-10T00:40:27+02:00</lastmod>
-      <priority>0</priority>
+      <lastmod>2016-11-30T00:00:00-05:00</lastmod>
     </url>
     
   
@@ -154,17 +140,22 @@
     <url>
     
       <loc>https://eederhsu.github.io/tags/</loc>
-      <lastmod>2016-11-30T00:00:00+08:00</lastmod>
-      <priority>0</priority>
+      <lastmod>2016-11-30T00:00:00-05:00</lastmod>
     </url>
     
   
     
     <url>
     
-      <loc>https://eederhsu.github.io/</loc>
-      <lastmod>2017-10-15T00:00:00+08:00</lastmod>
-      <priority>0</priority>
+      <loc>https://eederhsu.github.io/project/speaker-recognition/</loc>
+      <lastmod>2015-11-30T00:00:00-05:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://eederhsu.github.io/categories/</loc>
     </url>
     
   
