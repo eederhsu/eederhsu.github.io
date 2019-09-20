@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Wed, 30 Nov 2016 00:00:00 -0500</lastBuildDate>
+    <lastBuildDate>Wed, 30 Nov 2016 00:00:00 +0800</lastBuildDate>
     
 	<atom:link href="https://eederhsu.github.io/tags/machine-learning/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,37 +15,38 @@
     <item>
       <title>Facebook Likes Estimator</title>
       <link>https://eederhsu.github.io/project/facebook-likes-estimator-for-major-news-publishers-pages-/</link>
-      <pubDate>Wed, 30 Nov 2016 00:00:00 -0500</pubDate>
+      <pubDate>Wed, 30 Nov 2016 00:00:00 +0800</pubDate>
       
       <guid>https://eederhsu.github.io/project/facebook-likes-estimator-for-major-news-publishers-pages-/</guid>
-      <description>Facebook Likes Estimator for Major News Publishers’ Pages.</description>
-    </item>
-    
-    <item>
-      <title>how social media influence human emotion</title>
-      <link>https://eederhsu.github.io/project/social-media-emotion/</link>
-      <pubDate>Wed, 30 Nov 2016 00:00:00 -0500</pubDate>
-      
-      <guid>https://eederhsu.github.io/project/social-media-emotion/</guid>
-      <description>An analysis of how social media influence human emotion.</description>
+      <description>The project seeks to find the factors of the numbers of likes for posts from news publisher’s Facebook page.
+Data are collected from the Facebook pages of major news publisher such as: The New York Times, BBC News, The Huffington Post, CNN, TIME, The Wall Street Journal, and The Economist. A parser is built to obtain the raw data, which includes total likes for the page, created time of the post, content of the post and total likes for the post.</description>
     </item>
     
     <item>
       <title>MovieWatson</title>
       <link>https://eederhsu.github.io/project/moviewatson/</link>
-      <pubDate>Wed, 30 Nov 2016 00:00:00 -0500</pubDate>
+      <pubDate>Wed, 30 Nov 2016 00:00:00 +0800</pubDate>
       
       <guid>https://eederhsu.github.io/project/moviewatson/</guid>
-      <description>An intelligent movie recommendation system.</description>
+      <description>Our MovieWatson is a light movie recommendation system for each person. Most of the movie recommendation systems need the registration of their members. In addition, these recommendation systems will recommend the movie by the historical information of this user. These are lack of flexibility. Therefore, MovieWatson used instant rating, and the users can also receive the recommendation by their interests at the moment. Meanwhile, MovieWatson does not need users to register as a member, it saves complex registration procedures.</description>
+    </item>
+    
+    <item>
+      <title>how social media influence human emotion</title>
+      <link>https://eederhsu.github.io/project/social-media-emotion/</link>
+      <pubDate>Wed, 30 Nov 2016 00:00:00 +0800</pubDate>
+      
+      <guid>https://eederhsu.github.io/project/social-media-emotion/</guid>
+      <description> Designed an android App to collect real-time data that tracked user happiness. Used statistics to reveal the relationship between users happiness and the time spent on social media.  </description>
     </item>
     
     <item>
       <title>Speaker Identification</title>
       <link>https://eederhsu.github.io/project/speaker-recognition/</link>
-      <pubDate>Mon, 30 Nov 2015 00:00:00 -0500</pubDate>
+      <pubDate>Mon, 30 Nov 2015 00:00:00 +0800</pubDate>
       
       <guid>https://eederhsu.github.io/project/speaker-recognition/</guid>
-      <description>Using FFT and signal processing techniques to identify speakers.</description>
+      <description>This research focuses on speaker recognition, which has a variety of applications – automatic identification of the electronic device’s owner or different speakers in a conference. Collecting 20 training samples, the authors have used FFT to analyze the spectra of two different speakers and found several features in it, such as the number of the peaks that are larger than the mean amplitude. After establishing five criteria, the researchers successfully identified speakers from 10 input test data.</description>
     </item>
     
   </channel>

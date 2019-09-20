@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Yi-Te (Eeder) Hsu on Yi-Te (Eeder) Hsu</title>
@@ -6,43 +7,112 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Sat, 22 Dec 2018 23:00:00 -0500</lastBuildDate>
+    <lastBuildDate>Sun, 15 Oct 2017 00:00:00 +0800</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Posts</title>
-      <link>https://eederhsu.github.io/post/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 -0500</pubDate>
+      <title>Detecting dementia in Mandarin Chinese using transfer learning from a parallel corpus</title>
+      <link>https://eederhsu.github.io/publication/naacl2019/</link>
+      <pubDate>Mon, 10 Dec 2018 00:40:27 +0200</pubDate>
       
-      <guid>https://eederhsu.github.io/post/</guid>
+      <guid>https://eederhsu.github.io/publication/naacl2019/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Publications</title>
-      <link>https://eederhsu.github.io/publication/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 -0500</pubDate>
+      <title>Acceleration and compression of speech enhancement using integer-adder deep neural network (IA-Net)</title>
+      <link>https://eederhsu.github.io/publication/icassp2019/</link>
+      <pubDate>Sat, 08 Dec 2018 00:40:13 +0200</pubDate>
       
-      <guid>https://eederhsu.github.io/publication/</guid>
+      <guid>https://eederhsu.github.io/publication/icassp2019/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Recent &amp; Upcoming Talks</title>
-      <link>https://eederhsu.github.io/talk/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 -0500</pubDate>
+      <title>Robustness against the channel effect in pathological voice detection</title>
+      <link>https://eederhsu.github.io/publication/ml4h2018/</link>
+      <pubDate>Sat, 01 Dec 2018 00:22:51 +0200</pubDate>
       
-      <guid>https://eederhsu.github.io/talk/</guid>
+      <guid>https://eederhsu.github.io/publication/ml4h2018/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Projects</title>
-      <link>https://eederhsu.github.io/project/</link>
-      <pubDate>Wed, 30 Nov 2016 00:00:00 -0500</pubDate>
+      <title>A study on speech enhancement using exponent-only floating point quantized neural network (EOFP-QNN)</title>
+      <link>https://eederhsu.github.io/publication/eofp-qnn/</link>
+      <pubDate>Sun, 18 Nov 2018 23:28:38 +0200</pubDate>
       
-      <guid>https://eederhsu.github.io/project/</guid>
+      <guid>https://eederhsu.github.io/publication/eofp-qnn/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>DNN-based Approach to Detect and Classify Pathological Voice</title>
+      <link>https://eederhsu.github.io/publication/bigdata2018/</link>
+      <pubDate>Sat, 10 Nov 2018 00:40:03 +0200</pubDate>
+      
+      <guid>https://eederhsu.github.io/publication/bigdata2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Facebook Likes Estimator</title>
+      <link>https://eederhsu.github.io/project/facebook-likes-estimator-for-major-news-publishers-pages-/</link>
+      <pubDate>Wed, 30 Nov 2016 00:00:00 +0800</pubDate>
+      
+      <guid>https://eederhsu.github.io/project/facebook-likes-estimator-for-major-news-publishers-pages-/</guid>
+      <description>&lt;p&gt;The project seeks to find the factors of the numbers of likes for posts from news publisher’s Facebook page.&lt;/p&gt;
+
+&lt;p&gt;Data are collected from the Facebook pages of major news publisher such as: The New York Times, BBC News, The Huffington Post, CNN, TIME, The Wall Street Journal, and The Economist. A parser is built to obtain the raw data, which includes total likes for the page, created time of the post, content of the post and total likes for the post. From the raw data, we extract the following features: published day (Sunday-Saturday, marked as 0-6), published time, length of post (as number of words), and the tone of the post (leveled from 0-6). The last feature is supported by the Stanford CoreNLP Natural Language Processing Toolkit. Other features to be tested are event-specific time coefficient, for example, days before Thanksgiving, and preference of terms, which will utilize Stanford CoreNLP’s ability to identify popular terms from text.&lt;/p&gt;
+
+&lt;p&gt;These data will be separated into train and test cases. After obtaining the features, we first used visualize method such as histogram and bar plot to gain insight into the data. Finally, applied different mining techniques, for example, decision tree, to clarify the relationship between features and like counts.&lt;/p&gt;
+
+&lt;p&gt;In our result, we suggest a better post consist of only a few sharp sentences or a detailed paragraph. The commonly seen emoji icon and hashtag actually have no effect on the post’s popularity. Another trend we found is that post during worktime and workday receives less like.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Results&lt;/em&gt;&lt;/strong&gt;: Achieved 95% accuracy in predicting how many likes one post will obtain by machine learning techniques&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>MovieWatson</title>
+      <link>https://eederhsu.github.io/project/moviewatson/</link>
+      <pubDate>Wed, 30 Nov 2016 00:00:00 +0800</pubDate>
+      
+      <guid>https://eederhsu.github.io/project/moviewatson/</guid>
+      <description>&lt;p&gt;Our &lt;strong&gt;&lt;em&gt;MovieWatson&lt;/em&gt;&lt;/strong&gt; is a light movie recommendation system for each person. Most of the movie recommendation systems need the registration of their members. In addition, these recommendation systems will recommend the movie by the historical information of this user. These are lack of flexibility. Therefore, &lt;strong&gt;&lt;em&gt;MovieWatson&lt;/em&gt;&lt;/strong&gt; used instant rating, and the users can also receive the recommendation by their interests at the moment. Meanwhile, &lt;strong&gt;&lt;em&gt;MovieWatson&lt;/em&gt;&lt;/strong&gt; does not need users to register as a member, it saves complex registration procedures.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Features:&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Built a movie recommendation system that instantaneously captured user preference without needing user data history.&lt;/li&gt;
+&lt;li&gt;Utilized collaborative filtering system as well as database retrieval method to provide recommended 10 movies.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>how social media influence human emotion</title>
+      <link>https://eederhsu.github.io/project/social-media-emotion/</link>
+      <pubDate>Wed, 30 Nov 2016 00:00:00 +0800</pubDate>
+      
+      <guid>https://eederhsu.github.io/project/social-media-emotion/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;Designed an android App to collect real-time data that tracked user happiness.&lt;/li&gt;
+&lt;li&gt;Used statistics to reveal the relationship between users happiness and the time spent on social media.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Speaker Identification</title>
+      <link>https://eederhsu.github.io/project/speaker-recognition/</link>
+      <pubDate>Mon, 30 Nov 2015 00:00:00 +0800</pubDate>
+      
+      <guid>https://eederhsu.github.io/project/speaker-recognition/</guid>
+      <description>&lt;p&gt;This research focuses on speaker recognition, which has a variety of applications – automatic identification of the electronic device’s owner or different speakers in a conference. Collecting 20 training samples, the authors have used FFT to analyze the spectra of two different speakers and found several features in it, such as the number of the peaks that are larger than the mean amplitude. After establishing five criteria, the researchers successfully identified speakers from 10 input test data. What remains to be deeper understood includes the implementation of machine learning algorithms and the analysis of the signals in time domain.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Results&lt;/em&gt;&lt;/strong&gt;: Achieved 100% accuracy on identifying two speakers by performing FFT to the speech signals and utilized 5 differences between the speakers such as the number of peaks in the spectrum&lt;/p&gt;
+</description>
     </item>
     
   </channel>
