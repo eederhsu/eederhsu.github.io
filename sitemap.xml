@@ -1,171 +1,156 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
-    
-    <url>
-    
-      <loc>https://eederhsu.github.io/publication/naacl2019/</loc>
-      <lastmod>2018-12-10T00:40:27+02:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://eederhsu.github.io/publication_types/1/</loc>
+    <lastmod>2019-07-08T00:40:13+02:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://eederhsu.github.io/publication/icassp2019/</loc>
-      <lastmod>2018-12-08T00:40:13+02:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://eederhsu.github.io/authors/</loc>
+    <lastmod>2019-07-08T00:40:13+02:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://eederhsu.github.io/publication/ml4h2018/</loc>
-      <lastmod>2018-12-01T00:22:51+02:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://eederhsu.github.io/publication/interspeech2019/</loc>
+    <lastmod>2019-07-08T00:40:13+02:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://eederhsu.github.io/publication/eofp-qnn/</loc>
-      <lastmod>2018-11-18T23:28:38+02:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://eederhsu.github.io/publication_types/</loc>
+    <lastmod>2019-07-08T00:40:13+02:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://eederhsu.github.io/publication/bigdata2018/</loc>
-      <lastmod>2018-11-10T00:40:03+02:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://eederhsu.github.io/publication/</loc>
+    <lastmod>2019-07-08T00:40:13+02:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://eederhsu.github.io/post/</loc>
-      <lastmod>2017-01-01T00:00:00+08:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://eederhsu.github.io/</loc>
+    <lastmod>2019-07-08T00:40:13+02:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://eederhsu.github.io/publication/</loc>
-      <lastmod>2017-01-01T00:00:00+08:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://eederhsu.github.io/authors/yu-chen-lin-yi-te-hsu-szu-wei-fu-yu-tsao-and-tei-wei-kuo/</loc>
+    <lastmod>2019-07-08T00:40:13+02:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://eederhsu.github.io/talk/</loc>
-      <lastmod>2017-01-01T00:00:00+08:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://eederhsu.github.io/publication_types/0/</loc>
+    <lastmod>2018-12-10T00:40:27+02:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://eederhsu.github.io/project/facebook-likes-estimator-for-major-news-publishers-pages-/</loc>
-      <lastmod>2016-11-30T00:00:00+08:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://eederhsu.github.io/authors/bai-li-yi-te-hsu-and-frank-rudzicz/</loc>
+    <lastmod>2018-12-10T00:40:27+02:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://eederhsu.github.io/project/moviewatson/</loc>
-      <lastmod>2016-11-30T00:00:00+08:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://eederhsu.github.io/publication/naacl2019/</loc>
+    <lastmod>2018-12-10T00:40:27+02:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://eederhsu.github.io/project/social-media-emotion/</loc>
-      <lastmod>2016-11-30T00:00:00+08:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://eederhsu.github.io/authors/yi-te-hsu-zining-zhu-chi-te-wang-shih-hau-fang-frank-rudzicz-and-yu-tsao/</loc>
+    <lastmod>2018-12-01T00:22:51+02:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://eederhsu.github.io/project/speaker-recognition/</loc>
-      <lastmod>2015-11-30T00:00:00+08:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://eederhsu.github.io/publication/ml4h2018/</loc>
+    <lastmod>2018-12-01T00:22:51+02:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://eederhsu.github.io/publication_types/0/</loc>
-      <lastmod>2018-12-10T00:40:27+02:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>https://eederhsu.github.io/authors/yi-te-hsu/</loc>
+    <lastmod>2018-11-18T23:28:38+02:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://eederhsu.github.io/publication_types/1/</loc>
-      <lastmod>2018-12-08T00:40:13+02:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>https://eederhsu.github.io/publication/eofp-qnn/</loc>
+    <lastmod>2018-11-18T23:28:38+02:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://eederhsu.github.io/categories/</loc>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>https://eederhsu.github.io/authors/szu-wei-fu/</loc>
+    <lastmod>2018-11-18T23:28:38+02:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://eederhsu.github.io/tags/machine-learning/</loc>
-      <lastmod>2016-11-30T00:00:00+08:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>https://eederhsu.github.io/authors/tei-wei-kuo/</loc>
+    <lastmod>2018-11-18T23:28:38+02:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://eederhsu.github.io/project/</loc>
-      <lastmod>2016-11-30T00:00:00+08:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>https://eederhsu.github.io/authors/yu-tsao/</loc>
+    <lastmod>2018-11-18T23:28:38+02:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://eederhsu.github.io/publication_types/</loc>
-      <lastmod>2018-12-10T00:40:27+02:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>https://eederhsu.github.io/authors/yu-chen-lin/</loc>
+    <lastmod>2018-11-18T23:28:38+02:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://eederhsu.github.io/tags/</loc>
-      <lastmod>2016-11-30T00:00:00+08:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>https://eederhsu.github.io/publication/bigdata2018/</loc>
+    <lastmod>2018-11-10T00:40:03+02:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://eederhsu.github.io/</loc>
-      <lastmod>2017-10-15T00:00:00+08:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>https://eederhsu.github.io/authors/zong-ying-chuang-xiao-tong-yu-chen-ji-ying-yi-te-hsu-zhe-zhuang-xu-chi-te-wang-feng-chuan-lin-and-shih-hau-fang/</loc>
+    <lastmod>2018-11-10T00:40:03+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://eederhsu.github.io/project/facebook-likes-estimator-for-major-news-publishers-pages-/</loc>
+    <lastmod>2016-11-30T00:00:00-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://eederhsu.github.io/project/social-media-emotion/</loc>
+    <lastmod>2016-11-30T00:00:00-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://eederhsu.github.io/tags/machine-learning/</loc>
+    <lastmod>2016-11-30T00:00:00-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://eederhsu.github.io/project/moviewatson/</loc>
+    <lastmod>2016-11-30T00:00:00-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://eederhsu.github.io/project/</loc>
+    <lastmod>2016-11-30T00:00:00-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://eederhsu.github.io/tags/</loc>
+    <lastmod>2016-11-30T00:00:00-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://eederhsu.github.io/project/speaker-recognition/</loc>
+    <lastmod>2015-11-30T00:00:00-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://eederhsu.github.io/authors/admin/</loc>
+  </url>
+  
+  <url>
+    <loc>https://eederhsu.github.io/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>https://eederhsu.github.io/post/</loc>
+  </url>
+  
+  <url>
+    <loc>https://eederhsu.github.io/talk/</loc>
+  </url>
   
 </urlset>

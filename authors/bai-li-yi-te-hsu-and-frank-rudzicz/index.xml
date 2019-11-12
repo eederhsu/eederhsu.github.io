@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Bai Li, **Yi-Te Hsu** and Frank Rudzicz | Yi-Te (Eeder) Hsu</title>
+    <link>https://eederhsu.github.io/authors/bai-li-yi-te-hsu-and-frank-rudzicz/</link>
+      <atom:link href="https://eederhsu.github.io/authors/bai-li-yi-te-hsu-and-frank-rudzicz/index.xml" rel="self" type="application/rss+xml" />
+    <description>Bai Li, **Yi-Te Hsu** and Frank Rudzicz</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>2019</copyright><lastBuildDate>Mon, 10 Dec 2018 00:40:27 +0200</lastBuildDate>
+    <image>
+      <url>https://eederhsu.github.io/img/icon-192.png</url>
+      <title>Bai Li, **Yi-Te Hsu** and Frank Rudzicz</title>
+      <link>https://eederhsu.github.io/authors/bai-li-yi-te-hsu-and-frank-rudzicz/</link>
+    </image>
+    
+    <item>
+      <title>Detecting dementia in Mandarin Chinese using transfer learning from a parallel corpus</title>
+      <link>https://eederhsu.github.io/publication/naacl2019/</link>
+      <pubDate>Mon, 10 Dec 2018 00:40:27 +0200</pubDate>
+      <guid>https://eederhsu.github.io/publication/naacl2019/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

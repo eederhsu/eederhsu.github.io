@@ -1,32 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Publications on Yi-Te (Eeder) Hsu</title>
+    <title>Publications | Yi-Te (Eeder) Hsu</title>
     <link>https://eederhsu.github.io/publication/</link>
-    <description>Recent content in Publications on Yi-Te (Eeder) Hsu</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0800</lastBuildDate>
+      <atom:link href="https://eederhsu.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
+    <description>Publications</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>2019</copyright><lastBuildDate>Mon, 08 Jul 2019 00:40:13 +0200</lastBuildDate>
+    <image>
+      <url>https://eederhsu.github.io/img/icon-192.png</url>
+      <title>Publications</title>
+      <link>https://eederhsu.github.io/publication/</link>
+    </image>
     
-	<atom:link href="https://eederhsu.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
-    
+    <item>
+      <title>IA-NET: Acceleration and Compression of Speech Enhancement using Integer-adder Deep Neural Network</title>
+      <link>https://eederhsu.github.io/publication/interspeech2019/</link>
+      <pubDate>Mon, 08 Jul 2019 00:40:13 +0200</pubDate>
+      <guid>https://eederhsu.github.io/publication/interspeech2019/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Detecting dementia in Mandarin Chinese using transfer learning from a parallel corpus</title>
       <link>https://eederhsu.github.io/publication/naacl2019/</link>
       <pubDate>Mon, 10 Dec 2018 00:40:27 +0200</pubDate>
-      
       <guid>https://eederhsu.github.io/publication/naacl2019/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Acceleration and compression of speech enhancement using integer-adder deep neural network (IA-Net)</title>
-      <link>https://eederhsu.github.io/publication/icassp2019/</link>
-      <pubDate>Sat, 08 Dec 2018 00:40:13 +0200</pubDate>
-      
-      <guid>https://eederhsu.github.io/publication/icassp2019/</guid>
       <description></description>
     </item>
     
@@ -34,7 +32,6 @@
       <title>Robustness against the channel effect in pathological voice detection</title>
       <link>https://eederhsu.github.io/publication/ml4h2018/</link>
       <pubDate>Sat, 01 Dec 2018 00:22:51 +0200</pubDate>
-      
       <guid>https://eederhsu.github.io/publication/ml4h2018/</guid>
       <description></description>
     </item>
@@ -43,7 +40,6 @@
       <title>A study on speech enhancement using exponent-only floating point quantized neural network (EOFP-QNN)</title>
       <link>https://eederhsu.github.io/publication/eofp-qnn/</link>
       <pubDate>Sun, 18 Nov 2018 23:28:38 +0200</pubDate>
-      
       <guid>https://eederhsu.github.io/publication/eofp-qnn/</guid>
       <description></description>
     </item>
@@ -52,7 +48,6 @@
       <title>DNN-based Approach to Detect and Classify Pathological Voice</title>
       <link>https://eederhsu.github.io/publication/bigdata2018/</link>
       <pubDate>Sat, 10 Nov 2018 00:40:03 +0200</pubDate>
-      
       <guid>https://eederhsu.github.io/publication/bigdata2018/</guid>
       <description></description>
     </item>

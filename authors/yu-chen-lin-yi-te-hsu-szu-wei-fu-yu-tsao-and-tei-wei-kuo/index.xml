@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Yu-Chen Lin, **Yi-Te Hsu**, Szu-Wei Fu, Yu Tsao, and Tei-Wei Kuo | Yi-Te (Eeder) Hsu</title>
+    <link>https://eederhsu.github.io/authors/yu-chen-lin-yi-te-hsu-szu-wei-fu-yu-tsao-and-tei-wei-kuo/</link>
+      <atom:link href="https://eederhsu.github.io/authors/yu-chen-lin-yi-te-hsu-szu-wei-fu-yu-tsao-and-tei-wei-kuo/index.xml" rel="self" type="application/rss+xml" />
+    <description>Yu-Chen Lin, **Yi-Te Hsu**, Szu-Wei Fu, Yu Tsao, and Tei-Wei Kuo</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>2019</copyright><lastBuildDate>Mon, 08 Jul 2019 00:40:13 +0200</lastBuildDate>
+    <image>
+      <url>https://eederhsu.github.io/img/icon-192.png</url>
+      <title>Yu-Chen Lin, **Yi-Te Hsu**, Szu-Wei Fu, Yu Tsao, and Tei-Wei Kuo</title>
+      <link>https://eederhsu.github.io/authors/yu-chen-lin-yi-te-hsu-szu-wei-fu-yu-tsao-and-tei-wei-kuo/</link>
+    </image>
+    
+    <item>
+      <title>IA-NET: Acceleration and Compression of Speech Enhancement using Integer-adder Deep Neural Network</title>
+      <link>https://eederhsu.github.io/publication/interspeech2019/</link>
+      <pubDate>Mon, 08 Jul 2019 00:40:13 +0200</pubDate>
+      <guid>https://eederhsu.github.io/publication/interspeech2019/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

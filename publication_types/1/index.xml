@@ -1,23 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>1 on Yi-Te (Eeder) Hsu</title>
+    <title>1 | Yi-Te (Eeder) Hsu</title>
     <link>https://eederhsu.github.io/publication_types/1/</link>
-    <description>Recent content in 1 on Yi-Te (Eeder) Hsu</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Sat, 08 Dec 2018 00:40:13 +0200</lastBuildDate>
-    
-	<atom:link href="https://eederhsu.github.io/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
-    
+      <atom:link href="https://eederhsu.github.io/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
+    <description>1</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>2019</copyright><lastBuildDate>Mon, 08 Jul 2019 00:40:13 +0200</lastBuildDate>
+    <image>
+      <url>https://eederhsu.github.io/img/icon-192.png</url>
+      <title>1</title>
+      <link>https://eederhsu.github.io/publication_types/1/</link>
+    </image>
     
     <item>
-      <title>Acceleration and compression of speech enhancement using integer-adder deep neural network (IA-Net)</title>
-      <link>https://eederhsu.github.io/publication/icassp2019/</link>
-      <pubDate>Sat, 08 Dec 2018 00:40:13 +0200</pubDate>
-      
-      <guid>https://eederhsu.github.io/publication/icassp2019/</guid>
+      <title>IA-NET: Acceleration and Compression of Speech Enhancement using Integer-adder Deep Neural Network</title>
+      <link>https://eederhsu.github.io/publication/interspeech2019/</link>
+      <pubDate>Mon, 08 Jul 2019 00:40:13 +0200</pubDate>
+      <guid>https://eederhsu.github.io/publication/interspeech2019/</guid>
       <description></description>
     </item>
     
@@ -25,7 +24,6 @@
       <title>A study on speech enhancement using exponent-only floating point quantized neural network (EOFP-QNN)</title>
       <link>https://eederhsu.github.io/publication/eofp-qnn/</link>
       <pubDate>Sun, 18 Nov 2018 23:28:38 +0200</pubDate>
-      
       <guid>https://eederhsu.github.io/publication/eofp-qnn/</guid>
       <description></description>
     </item>
