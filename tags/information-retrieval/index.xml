@@ -5,7 +5,7 @@
     <link>https://eederhsu.github.io/tags/information-retrieval/</link>
       <atom:link href="https://eederhsu.github.io/tags/information-retrieval/index.xml" rel="self" type="application/rss+xml" />
     <description>Information Retrieval</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>2020</copyright><lastBuildDate>Mon, 02 Mar 2020 00:00:00 -0500</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>2020</copyright><lastBuildDate>Mon, 02 Mar 2020 00:00:00 -0800</lastBuildDate>
     <image>
       <url>https://eederhsu.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Information Retrieval</title>
@@ -15,7 +15,7 @@
     <item>
       <title>COVID-19 News Website</title>
       <link>https://eederhsu.github.io/project/covid-19-news-website/</link>
-      <pubDate>Mon, 02 Mar 2020 00:00:00 -0500</pubDate>
+      <pubDate>Mon, 02 Mar 2020 00:00:00 -0800</pubDate>
       <guid>https://eederhsu.github.io/project/covid-19-news-website/</guid>
       <description>&lt;p&gt;Our goal is to build a COVID-19 news website containing the latest and the most important local information classified by different topics and without redundant contents.&lt;/p&gt;
 &lt;p&gt;There is a colossal amount of information about COVID-19 on the Internet. People are overwhelmed by considerable content and struggling to find crucial information to protect themselves. In this website, we collect information from government websites, professional news, and social media. After data collection, we applied information retrieval techniques and NLP techniques to remove redundant contents and built a system self-learning extracting critical information for each user. Furthermore, we build a website to demonstrate the information. &lt;a href=&#34;https://covid19news.herokuapp.com/&#34;&gt;https://covid19news.herokuapp.com/&lt;/a&gt;&lt;/p&gt;
